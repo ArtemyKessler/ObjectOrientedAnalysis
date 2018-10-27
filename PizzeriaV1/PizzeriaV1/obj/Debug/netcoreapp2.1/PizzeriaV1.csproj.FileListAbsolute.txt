@@ -1,0 +1,11 @@
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\bin\Debug\netcoreapp2.1\PizzeriaV1.deps.json
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\bin\Debug\netcoreapp2.1\PizzeriaV1.runtimeconfig.json
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\bin\Debug\netcoreapp2.1\PizzeriaV1.runtimeconfig.dev.json
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\bin\Debug\netcoreapp2.1\PizzeriaV1.dll
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\bin\Debug\netcoreapp2.1\PizzeriaV1.pdb
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\obj\Debug\netcoreapp2.1\PizzeriaV1.csprojAssemblyReference.cache
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\obj\Debug\netcoreapp2.1\PizzeriaV1.csproj.CoreCompileInputs.cache
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\obj\Debug\netcoreapp2.1\PizzeriaV1.AssemblyInfoInputs.cache
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\obj\Debug\netcoreapp2.1\PizzeriaV1.AssemblyInfo.cs
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\obj\Debug\netcoreapp2.1\PizzeriaV1.dll
+C:\Users\artke\RiderProjects\PizzeriaV1\PizzeriaV1\obj\Debug\netcoreapp2.1\PizzeriaV1.pdb

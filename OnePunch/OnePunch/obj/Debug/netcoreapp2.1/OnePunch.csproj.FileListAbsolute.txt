@@ -1,0 +1,11 @@
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\bin\Debug\netcoreapp2.1\OnePunch.deps.json
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\bin\Debug\netcoreapp2.1\OnePunch.runtimeconfig.json
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\bin\Debug\netcoreapp2.1\OnePunch.runtimeconfig.dev.json
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\bin\Debug\netcoreapp2.1\OnePunch.dll
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\bin\Debug\netcoreapp2.1\OnePunch.pdb
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\obj\Debug\netcoreapp2.1\OnePunch.csprojAssemblyReference.cache
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\obj\Debug\netcoreapp2.1\OnePunch.csproj.CoreCompileInputs.cache
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\obj\Debug\netcoreapp2.1\OnePunch.AssemblyInfoInputs.cache
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\obj\Debug\netcoreapp2.1\OnePunch.AssemblyInfo.cs
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\obj\Debug\netcoreapp2.1\OnePunch.dll
+C:\Users\artke\RiderProjects\OnePunch\OnePunch\obj\Debug\netcoreapp2.1\OnePunch.pdb

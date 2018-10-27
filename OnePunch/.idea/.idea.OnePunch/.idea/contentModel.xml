@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\artke\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\artke\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_OnePunch.741707318.00" t="ExcludeRecursive" />
+    <e p="C:\Users\artke\RiderProjects\OnePunch" t="IncludeFlat">
+      <e p="OnePunch" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="OnePunch.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OnePunch.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="OnePunch.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
